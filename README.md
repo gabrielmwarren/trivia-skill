@@ -15,7 +15,6 @@ Gabriel Warren
 
 ## Category
 **Entertainment**
-Information
 
 ## Tags
 #Quiz
