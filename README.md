@@ -5,9 +5,9 @@ Allows you to play trivia
 Allows you to play trivia with Mycroft
 
 ## Examples
-* "let's play the quiz game"
+* "let's play trivia"
 * "play a game of quiz"
-* "play the quiz game"
+* "play the trivia game"
 * "open the quiz game"
 
 ## Credits
